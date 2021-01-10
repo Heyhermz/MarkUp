@@ -1,1 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2021-01-10T01:09:15.449Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 Edg/87.0.664.75" version="14.1.9" etag="cIMuYp-WUO9IYS9ZhD06" type="github"><diagram id="bMRMcCd1HDUrHbRK-6pR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-10T07:46:39.065Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 Edg/87.0.664.75" etag="VRejbCg5sgLZUJ7k_0QN" version="14.1.9" type="github">
+  <diagram id="bMRMcCd1HDUrHbRK-6pR" name="Page-1">
+    <mxGraphModel dx="1117" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SOstglxNMvdoT5mfVIjX-8" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 30px&quot;&gt;MarkUp Auction System&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="50" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SOstglxNMvdoT5mfVIjX-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.01;entryY=0.448;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SOstglxNMvdoT5mfVIjX-86" target="SOstglxNMvdoT5mfVIjX-89">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="283" y="325" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="158" y="312" />
+              <mxPoint x="282" y="312" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SOstglxNMvdoT5mfVIjX-86" value="&lt;font style=&quot;font-size: 16px&quot;&gt;User&lt;/font&gt;" style="html=1;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="103" y="420" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SOstglxNMvdoT5mfVIjX-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SOstglxNMvdoT5mfVIjX-89" target="SOstglxNMvdoT5mfVIjX-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SOstglxNMvdoT5mfVIjX-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SOstglxNMvdoT5mfVIjX-89" target="SOstglxNMvdoT5mfVIjX-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SOstglxNMvdoT5mfVIjX-89" value="Login / Sign-up" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.loop;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="283" y="290" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SOstglxNMvdoT5mfVIjX-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="SOstglxNMvdoT5mfVIjX-97">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="388" y="210" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SOstglxNMvdoT5mfVIjX-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SOstglxNMvdoT5mfVIjX-95" target="SOstglxNMvdoT5mfVIjX-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SOstglxNMvdoT5mfVIjX-95" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Auctioneer&lt;/span&gt;" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="280.5" y="420" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SOstglxNMvdoT5mfVIjX-97" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Admin&lt;/font&gt;" style="html=1;dashed=0;whitespace=wrap;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="483" y="190" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SOstglxNMvdoT5mfVIjX-100" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Bidder&lt;/font&gt;" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="483" y="292.5" width="95" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="SOstglxNMvdoT5mfVIjX-103" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SOstglxNMvdoT5mfVIjX-89">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="393" y="320" as="sourcePoint" />
+            <mxPoint x="337.9999999999999" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SOstglxNMvdoT5mfVIjX-105" value="Auction Page" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.loop;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="479.25" y="420" width="102.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SOstglxNMvdoT5mfVIjX-112" value="&amp;nbsp;D&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Accounts" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="288" y="195" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SOstglxNMvdoT5mfVIjX-115" value="Browsing Page" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.loop;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="638" y="350" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SOstglxNMvdoT5mfVIjX-118" value="" style="endArrow=classic;html=1;entryX=0.98;entryY=0.628;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=10;exitDy=50;exitPerimeter=0;" edge="1" parent="1" source="SOstglxNMvdoT5mfVIjX-115" target="SOstglxNMvdoT5mfVIjX-105">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="663" y="470" as="sourcePoint" />
+            <mxPoint x="713" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SOstglxNMvdoT5mfVIjX-119" value="" style="endArrow=classic;html=1;entryX=0.004;entryY=0.492;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SOstglxNMvdoT5mfVIjX-100" target="SOstglxNMvdoT5mfVIjX-115">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="523" y="350" as="sourcePoint" />
+            <mxPoint x="573" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
